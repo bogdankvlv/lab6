@@ -1,0 +1,8 @@
+run:
+How many grade marks are you entering?
+3
+Enter Grade Mark 1:40
+Enter Grade Mark 2:50
+Enter Grade Mark 3:60
+The final Grade is: F
+BUILD SUCCESSFUL (total time: 4 seconds)
