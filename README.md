@@ -1,1 +1,1 @@
-# lab6
+This program is a final grade calculator that calculates your grade for a certain course. In this program it asks how many grade marks you are entering and asks you to enter it. If you enter that you have 3 grade marks. Then it will ask you for 3 different grade marks. After this it will calculate your final grade for the course based on the numbers that you entered. 
